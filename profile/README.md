@@ -128,7 +128,6 @@ We welcome partnerships (research grants, radio partners, universities). Email: 
 * `SECURITY.md` — responsible disclosure
 * `AMBASSADOR.md` — ambassador role & onboarding pack
 
-> These files should exist in the root of the org’s main repo or be linked from this README.
 
 ---
 
