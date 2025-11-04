@@ -1,7 +1,7 @@
 ````markdown
 ````
 <!-- ORGANIZATION README for AfriLinguaDAO -->
-# AfriLinguaDAO
+# Alkebula
 **A Decentralized African Knowledge Ecosystem**  
 _Preserving Africa’s voices through community-led datasets, ethical AI, and tokenized governance._
 
